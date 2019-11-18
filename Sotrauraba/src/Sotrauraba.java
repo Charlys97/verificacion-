@@ -38,8 +38,7 @@ public class Sotrauraba {
                 System.out.print(puestos[fila][columna].getNumero()+ " " + estado +"\t");
                }
              System.out.println("");
-         }
-         
+         }        
          
          System.out.println("");
          System.out.println("--------------------------------");
